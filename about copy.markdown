@@ -5,7 +5,7 @@ title: 2Bout
 permalink: /About/2Bout222
 description: >-
     <h6>asdasd</h6>
-    <img src=http://localhost:4000/assets/libdoc/img/lottie-android.gif>
+    <img src=/assets/libdoc/img/lottie-android.gif>
 ---
 
 # Contents header
